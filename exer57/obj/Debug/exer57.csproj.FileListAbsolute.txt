@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\C#\exer57\bin\Debug\exer57.exe.config
+C:\Users\Owner\Desktop\C#\exer57\bin\Debug\exer57.exe
+C:\Users\Owner\Desktop\C#\exer57\bin\Debug\exer57.pdb
+C:\Users\Owner\Desktop\C#\exer57\obj\Debug\exer57.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C#\exer57\obj\Debug\exer57.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C#\exer57\obj\Debug\exer57.exe
+C:\Users\Owner\Desktop\C#\exer57\obj\Debug\exer57.pdb
