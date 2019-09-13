@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\C#\compareprogram\bin\Debug\compareprogram.exe.config
+C:\Users\Owner\Desktop\C#\compareprogram\bin\Debug\compareprogram.exe
+C:\Users\Owner\Desktop\C#\compareprogram\bin\Debug\compareprogram.pdb
+C:\Users\Owner\Desktop\C#\compareprogram\obj\Debug\compareprogram.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C#\compareprogram\obj\Debug\compareprogram.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C#\compareprogram\obj\Debug\compareprogram.exe
+C:\Users\Owner\Desktop\C#\compareprogram\obj\Debug\compareprogram.pdb
