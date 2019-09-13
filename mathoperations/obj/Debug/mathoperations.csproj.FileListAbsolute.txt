@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\C#\mathoperations\obj\Debug\mathoperations.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C#\mathoperations\obj\Debug\mathoperations.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C#\mathoperations\bin\Debug\mathoperations.exe.config
+C:\Users\Owner\Desktop\C#\mathoperations\bin\Debug\mathoperations.exe
+C:\Users\Owner\Desktop\C#\mathoperations\bin\Debug\mathoperations.pdb
+C:\Users\Owner\Desktop\C#\mathoperations\obj\Debug\mathoperations.exe
+C:\Users\Owner\Desktop\C#\mathoperations\obj\Debug\mathoperations.pdb
