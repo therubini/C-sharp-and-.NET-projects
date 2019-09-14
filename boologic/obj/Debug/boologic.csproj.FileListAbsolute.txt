@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\C#\boologic\bin\Debug\boologic.exe.config
+C:\Users\Owner\Desktop\C#\boologic\bin\Debug\boologic.exe
+C:\Users\Owner\Desktop\C#\boologic\bin\Debug\boologic.pdb
+C:\Users\Owner\Desktop\C#\boologic\obj\Debug\boologic.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C#\boologic\obj\Debug\boologic.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C#\boologic\obj\Debug\boologic.exe
+C:\Users\Owner\Desktop\C#\boologic\obj\Debug\boologic.pdb
