@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\C#\whileLoop\bin\Debug\whileLoop.exe.config
+C:\Users\Owner\Desktop\C#\whileLoop\bin\Debug\whileLoop.exe
+C:\Users\Owner\Desktop\C#\whileLoop\bin\Debug\whileLoop.pdb
+C:\Users\Owner\Desktop\C#\whileLoop\obj\Debug\whileLoop.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C#\whileLoop\obj\Debug\whileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C#\whileLoop\obj\Debug\whileLoop.exe
+C:\Users\Owner\Desktop\C#\whileLoop\obj\Debug\whileLoop.pdb
