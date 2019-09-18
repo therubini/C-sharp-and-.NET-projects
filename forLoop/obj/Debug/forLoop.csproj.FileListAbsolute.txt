@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\C#\forLoop\bin\Debug\forLoop.exe.config
+C:\Users\Owner\Desktop\C#\forLoop\bin\Debug\forLoop.exe
+C:\Users\Owner\Desktop\C#\forLoop\bin\Debug\forLoop.pdb
+C:\Users\Owner\Desktop\C#\forLoop\obj\Debug\forLoop.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C#\forLoop\obj\Debug\forLoop.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C#\forLoop\obj\Debug\forLoop.exe
+C:\Users\Owner\Desktop\C#\forLoop\obj\Debug\forLoop.pdb
