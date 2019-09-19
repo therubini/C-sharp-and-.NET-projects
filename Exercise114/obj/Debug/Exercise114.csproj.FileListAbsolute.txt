@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\C#\Exercise114\bin\Debug\Exercise114.exe.config
+C:\Users\Owner\Desktop\C#\Exercise114\bin\Debug\Exercise114.exe
+C:\Users\Owner\Desktop\C#\Exercise114\bin\Debug\Exercise114.pdb
+C:\Users\Owner\Desktop\C#\Exercise114\obj\Debug\Exercise114.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C#\Exercise114\obj\Debug\Exercise114.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C#\Exercise114\obj\Debug\Exercise114.exe
+C:\Users\Owner\Desktop\C#\Exercise114\obj\Debug\Exercise114.pdb
