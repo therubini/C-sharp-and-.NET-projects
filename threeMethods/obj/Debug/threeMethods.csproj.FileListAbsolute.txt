@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\C#\threeMethods\bin\Debug\threeMethods.exe.config
+C:\Users\Owner\Desktop\C#\threeMethods\bin\Debug\threeMethods.exe
+C:\Users\Owner\Desktop\C#\threeMethods\bin\Debug\threeMethods.pdb
+C:\Users\Owner\Desktop\C#\threeMethods\obj\Debug\threeMethods.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C#\threeMethods\obj\Debug\threeMethods.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C#\threeMethods\obj\Debug\threeMethods.exe
+C:\Users\Owner\Desktop\C#\threeMethods\obj\Debug\threeMethods.pdb
