@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\C#\MethodOutput\bin\Debug\MethodOutput.exe.config
+C:\Users\Owner\Desktop\C#\MethodOutput\bin\Debug\MethodOutput.exe
+C:\Users\Owner\Desktop\C#\MethodOutput\bin\Debug\MethodOutput.pdb
+C:\Users\Owner\Desktop\C#\MethodOutput\obj\Debug\MethodOutput.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C#\MethodOutput\obj\Debug\MethodOutput.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C#\MethodOutput\obj\Debug\MethodOutput.exe
+C:\Users\Owner\Desktop\C#\MethodOutput\obj\Debug\MethodOutput.pdb
