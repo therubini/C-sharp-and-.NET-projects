@@ -36,13 +36,12 @@ namespace Exercise114
                 Console.WriteLine("\nPlease provide a number to subract it by 100.");
                 string number3 = Console.ReadLine();
 
-                string ret2;
+                int ret2;
 
                 intMath math3 = new intMath();
                 ret2 = math3.math1(number3);                                                  //Same method name with string input and integer output
-                int ret22 = Convert.ToInt32(ret2);
 
-                Console.WriteLine("Your answer is " + ret22 + "!");
+                Console.WriteLine("Your answer is " + ret2 + "!");
             }
             catch (DivideByZeroException ex)                                                        //Our exception errors
             {

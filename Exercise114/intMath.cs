@@ -15,23 +15,24 @@ namespace Exercise114
             result = num1 * 100;
             return result;
         }
-        public decimal math1(decimal num2)            //Decimal input 
+        public int math1(decimal num2)            //Decimal input 
         {
             decimal result;
 
             result = 100 / num2;
-            return result;
+
+            int rt = Convert.ToInt32(result);
+            return rt;
         }
 
-        public string math1(string num3)              //String input
+        public int math1(string num3)              //String input
         {
             int num33 = Convert.ToInt32(num3);
             int result;
 
             result = 100 - num33;
-            string result3 = result.ToString();
 
-            return result3;
+            return result;
         }
 
     }
