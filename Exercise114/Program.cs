@@ -17,6 +17,7 @@ namespace Exercise114
                 int number = Convert.ToInt32(Console.ReadLine());
                 int ret;
 
+
                 intMath math1 = new intMath();
                 ret = math1.math1(number);                                                   //Method with integer input
 
