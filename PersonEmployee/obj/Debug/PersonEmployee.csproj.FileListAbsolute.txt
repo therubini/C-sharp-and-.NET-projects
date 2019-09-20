@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\C#\PersonEmployee\bin\Debug\PersonEmployee.exe.config
+C:\Users\Owner\Desktop\C#\PersonEmployee\bin\Debug\PersonEmployee.exe
+C:\Users\Owner\Desktop\C#\PersonEmployee\bin\Debug\PersonEmployee.pdb
+C:\Users\Owner\Desktop\C#\PersonEmployee\obj\Debug\PersonEmployee.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C#\PersonEmployee\obj\Debug\PersonEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C#\PersonEmployee\obj\Debug\PersonEmployee.exe
+C:\Users\Owner\Desktop\C#\PersonEmployee\obj\Debug\PersonEmployee.pdb
