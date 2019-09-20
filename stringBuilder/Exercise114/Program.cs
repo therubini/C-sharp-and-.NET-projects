@@ -29,9 +29,8 @@ namespace Exercise114
 
                 intMath math2 = new intMath();
                 ret1 = math2.math1(number2);                                                 //Same method with decimal input and integer output
-                int ret11 = Convert.ToInt32(ret1);
 
-                Console.WriteLine("Your answer is " + ret11 + "!");
+                Console.WriteLine("Your answer is " + ret1 + "!");
 
                 Console.WriteLine("\nPlease provide a number to subract it by 100.");
                 string number3 = Console.ReadLine();
