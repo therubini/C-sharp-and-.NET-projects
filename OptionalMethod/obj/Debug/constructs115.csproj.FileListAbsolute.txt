@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\C#\constructs115\obj\Debug\constructs115.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C#\constructs115\obj\Debug\constructs115.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C#\constructs115\bin\Debug\constructs115.exe.config
+C:\Users\Owner\Desktop\C#\constructs115\bin\Debug\constructs115.exe
+C:\Users\Owner\Desktop\C#\constructs115\bin\Debug\constructs115.pdb
+C:\Users\Owner\Desktop\C#\constructs115\obj\Debug\constructs115.exe
+C:\Users\Owner\Desktop\C#\constructs115\obj\Debug\constructs115.pdb
