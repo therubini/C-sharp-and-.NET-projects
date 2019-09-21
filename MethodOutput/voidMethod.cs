@@ -6,17 +6,19 @@ using System.Threading.Tasks;
 
 namespace MethodOutput
 {
-    class voidMethod
+    static class VoidUsed                                                                      
     {
-        public static void math(int x)                                                   //Void method
-        {
-            Console.WriteLine("Your number divided by 2 equals: " + x / 2 + "!");
 
-        }
-        public static void math(int x, out int result)                                   //Static void overload method with output parameter
+        //int output;
+        public static void Math(int x)                                                   //Void method
         {
-            result = x / 2;
-            Console.WriteLine("\nBy using an overload and an output we can get the result: " + result + "!");
+
+             Console.WriteLine("\nYour first number divided by 2 equals: " + x/2 + "!");
+        }
+        public static void Math(int x, int y, out int output)                                   //Static void overload method with output parameter
+        {
+            int result = x* y;
+            output = result;           
         }
     }
 }

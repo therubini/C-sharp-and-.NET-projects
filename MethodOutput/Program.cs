@@ -10,16 +10,20 @@ namespace MethodOutput
     {
         static void Main(string[] args)
         {
-                                                                                      //Exercise # 117
+                                                                                                   //Exercise # 117
+            
             Console.WriteLine("Please provide a number to be divided by 2.");
-            int number = Convert.ToInt32(Console.ReadLine());                         //Input for our parameters
+            int number = Convert.ToInt32(Console.ReadLine());                                     //Input for number parameter
 
-            int output;
+            Console.WriteLine("\nPlease provide a second number to multiply by the first number.");//Input for number2 parameter
+            int number2 = Convert.ToInt32(Console.ReadLine());
 
-            voidMethod voidMethod = new voidMethod();                                 //Static class
-            voidMethod.math(number);                                                  //Void method
-            voidMethod.math(number, out output);                                      //Overload method and Output parameter
+            VoidUsed.Math(number);                                                                //Void method used from Static class
 
+
+            VoidUsed.Math(number, number2, out int result);                                       //Overload method and Output parameters
+            Console.WriteLine("\nWhen you multiply " + number + " by " + number2 + 
+                              " it equals: " + result + "!");
 
             Console.ReadLine();
         }
