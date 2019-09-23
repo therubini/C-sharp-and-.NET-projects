@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 namespace AbstractClass
 {
     public class Employee: Person, IQuitTable                                    //Inherit class from Person and Interface from IQuitTable
-    {
-        public override void SayName()                                //Override to pull method from Person Class along with console custom
+    {               
+        public override void SayName()                                //Override to pull method from Person Class 
         {
-            Console.WriteLine("Employee Name:\n");
+            //Console.WriteLine("\n--Employee Name: ");              //Console custome
             base.SayName();
         }
         public void Quit(Employee employee)                          //Method to be called
@@ -24,8 +24,26 @@ namespace AbstractClass
             }
             else
             {
-                Console.WriteLine("\nBest of Luck! " + lastName +  " Security will escort you out.");
+                Console.WriteLine("\nBest of Luck! " + lastName + "," + " security will escort you out.");
             }
+
+        }
+        public static bool operator ==(Employee person, Employee person2)       //Operator Overloading using the "==", comparing person's ID && person2's ID 
+        {
+            if (person.ID == person2.ID) 
+            {
+                return true;
+            }
+           return false;
+        }
+
+        public static bool operator !=(Employee person, Employee person2)
+        {
+            if (person.ID != person2.ID) 
+            {
+                return true;
+            }
+            return false;
         }
     }
 }

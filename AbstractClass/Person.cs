@@ -10,9 +10,10 @@ namespace AbstractClass
     {
         public string firstName { get; set; }
         public string lastName { get; set; }
+        public int ID { get; set; }
         public virtual void SayName()                                     //Virtual keyword
         {
-            Console.WriteLine( firstName + " " + lastName);
+            Console.WriteLine( "\nEmployee Name: " + "\t" + firstName + " " + lastName);
         }
     }
 }
