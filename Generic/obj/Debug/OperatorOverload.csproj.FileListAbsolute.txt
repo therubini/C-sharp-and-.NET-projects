@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\C#\OperatorOverload\bin\Debug\OperatorOverload.exe.config
+C:\Users\Owner\Desktop\C#\OperatorOverload\bin\Debug\OperatorOverload.exe
+C:\Users\Owner\Desktop\C#\OperatorOverload\bin\Debug\OperatorOverload.pdb
+C:\Users\Owner\Desktop\C#\OperatorOverload\obj\Debug\OperatorOverload.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C#\OperatorOverload\obj\Debug\OperatorOverload.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C#\OperatorOverload\obj\Debug\OperatorOverload.exe
+C:\Users\Owner\Desktop\C#\OperatorOverload\obj\Debug\OperatorOverload.pdb
