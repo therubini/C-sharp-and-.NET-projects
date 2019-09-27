@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\C#\InputOutput\bin\Debug\InputOutput.exe.config
+C:\Users\Owner\Desktop\C#\InputOutput\bin\Debug\InputOutput.exe
+C:\Users\Owner\Desktop\C#\InputOutput\bin\Debug\InputOutput.pdb
+C:\Users\Owner\Desktop\C#\InputOutput\obj\Debug\InputOutput.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C#\InputOutput\obj\Debug\InputOutput.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C#\InputOutput\obj\Debug\InputOutput.exe
+C:\Users\Owner\Desktop\C#\InputOutput\obj\Debug\InputOutput.pdb
