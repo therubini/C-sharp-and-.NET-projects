@@ -8,17 +8,18 @@ namespace ConstVarConstructors
 {
     public class Constructors
     {
-        public Constructors(int number, int number2, int result) : this("You didn't provide a name...Oh Well," , number, number2, result) //Constructor chaining creatd
+        public Constructors(int number, int number2) : this("You didn't provide a name...Oh Well," , number, number2) //Constructor chaining creatd
         {
 
         }
-        public Constructors(string firstname, int number, int number2, int result)  
+        public Constructors(string firstname, int number, int number2)  
         {
+            Result= number * number2;
+
             Firstname = firstname;
             Number = number;
             Number2 = number2;
-            result = number * number2;
-            Result = result;
+            
         }
 
         public int Result { get; set; }

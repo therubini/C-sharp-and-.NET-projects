@@ -17,17 +17,17 @@ namespace ConstVarConstructors
                 Console.WriteLine("\nPlease provide a number.");
                 int number = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("\nPlease provide another number.");
-                int number2 = Convert.ToInt32(Console.ReadLine());                      
-
-                int result = number * number2;
-                if (firstname == " ")
+                int number2 = Convert.ToInt32(Console.ReadLine());
+            
+                if (firstname == "")
                 {
-                    var constructors = new Constructors(firstname, number, number2, result);    //Var keyword implemented
+                    var constructors = new Constructors(number, number2);    //Var keyword implemented
                     Console.WriteLine(words, constructors.Firstname, constructors.Number, constructors.Number2, constructors.Result);
+                    Console.Read();
                 }
                 else
                 {
-                    var constructors = new Constructors(number, number2, result);              //Constructor chain implemented
+                    var constructors = new Constructors(firstname, number, number2);              //Constructor chain implemented
                     Console.WriteLine(words, constructors.Firstname, constructors.Number, constructors.Number2, constructors.Result);
                     Console.Read();
                 }
