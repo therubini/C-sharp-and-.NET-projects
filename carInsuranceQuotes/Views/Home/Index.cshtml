@@ -1,0 +1,68 @@
+﻿           <h3>Get your Rubini and Company insurance quote!</h3>
+            <div class="row no-gutters m-3">
+                <div class="card col-sm-12 col-md col-lg-6 mx-auto shadow">                   
+                    <div class="card-body">
+
+                                                                                    
+                        @using (Html.BeginForm("SignUp", "Home", FormMethod.Post))     //I used different validation tools for excepting correct data               
+                        {
+                            <div class="row no-gutters">
+                                <div class="form-group col-md-12">
+                                    <label>First Name</label>
+                                    <input onkeypress="return isNumericKey(event)" name="FirstName" type="text" class="form-control" placeholder="First Name" required="required" />
+                                </div>
+                                <div class="form-group col-md-12">
+                                    <label>Last Name</label>
+                                    <input onkeypress="return isNumericKey(event)" name="LastName" type="text" class="form-control" placeholder="Last Name" required="required" />
+                                </div>
+                                <div class="form-group col-md-12">
+                                    <label>Email Address</label>
+                                    <input name="EmailAddress" type="email" class="form-control" placeholder="Email Address" required="required" />
+                                </div>
+                                <div class="form-group col-md-12">
+                                    <label for="example-date-input">Date of Birth</label>
+                                    <input name="DateOfBirth" type="date" class="form-control" placeholder="dd/mm/yyyy" id="example-date-input" required="required" />
+                                </div>
+                                <div class="form-group col-md-12">
+                                    <label class="control-label">Car Year</label>
+                                    <input name="CarYear" type="number" min="1930" class="form-control" placeholder="Car Year" required="required" />
+                                </div>
+                                <div class="form-group col-md-12">
+                                    <label>Car Make</label>
+                                    <input onkeypress="return isNumericKey(event)" name="CarMake" type="text" class="form-control" placeholder="Car Make" required="required" />
+                                </div>
+                                <div class="form-group col-md-12">
+                                    <label>Car Model</label>
+                                    <input name="CarModel" type="text" class="form-control" placeholder="Car Model" required="required" />
+                                </div>
+                                <div class="form-group col-md-12 control-label">
+                                    <p>How many speeding tickets have you had?</p>
+                                    <input name="Tickets" type="number" min="0" class="form-control" placeholder="Number" required="required" />
+                                </div>
+                                <div class="col-md-12">
+                                    <p>Have you ever had a DUI before?</p>
+                                    <div class="btn-group-toggle" data-toggle="buttons">
+                                        <label class="btn btn-info active">
+                                            <input name="Dui" type="radio" value = true> Check if Yes
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <br />
+                                    <p>Would you like full coverage?</p>
+
+                                    <div class="btn-group-toggle" data-toggle="buttons">
+                                        <label class="btn btn-info active">
+                                            <input name="FullCoverage" type="radio" value = true>I want full coverage!
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <br />
+                                    <button type="submit" class="btn btn-block btn-primary">Submit</button>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CarInsuranceQuotesModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Quotes">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirstName" Type="varchar" MaxLength="25" />
+    <Property Name="LastName" Type="varchar" MaxLength="50" />
+    <Property Name="EmailAddress" Type="varchar" MaxLength="50" />
+    <Property Name="DateofBirth" Type="varchar" MaxLength="50" />
+    <Property Name="CarYear" Type="int" />
+    <Property Name="CarMake" Type="varchar" MaxLength="25" />
+    <Property Name="CarModel" Type="varchar" MaxLength="50" />
+    <Property Name="Tickets" Type="int" />
+    <Property Name="Dui" Type="bit" />
+    <Property Name="FullCoverage" Type="bit" />
+    <Property Name="BasePolicy" Type="float" />
+  </EntityType>
+  <EntityContainer Name="CarInsuranceQuotesModelStoreContainer">
+    <EntitySet Name="Quotes" EntityType="Self.Quotes" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

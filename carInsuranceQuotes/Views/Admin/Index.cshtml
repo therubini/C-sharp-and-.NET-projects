@@ -1,0 +1,18 @@
+﻿
+@using carInsuranceQuotes.ViewModels                                             
+@model List<QuoteVM>
+                                                                              
+            @foreach (var quote in Model)
+            { 
+             <div class="container">
+                 <div class="row">
+                     <input type="hidden" name="Id" value="@quote.Id" />
+
+                     <div class="col">@quote.FirstName @quote.LastName</div>
+                     <div class="col">@quote.EmailAddress</div>
+                     <div class="col">@quote.BasePolicy</div>
+                     <br />
+                 </div>
+             </div>
+            }
+
