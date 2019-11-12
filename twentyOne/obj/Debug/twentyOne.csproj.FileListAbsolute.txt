@@ -1,7 +1,0 @@
-C:\Users\Owner\Desktop\C#\twentyOne\bin\Debug\twentyOne.exe.config
-C:\Users\Owner\Desktop\C#\twentyOne\bin\Debug\twentyOne.exe
-C:\Users\Owner\Desktop\C#\twentyOne\bin\Debug\twentyOne.pdb
-C:\Users\Owner\Desktop\C#\twentyOne\obj\Debug\twentyOne.csprojAssemblyReference.cache
-C:\Users\Owner\Desktop\C#\twentyOne\obj\Debug\twentyOne.csproj.CoreCompileInputs.cache
-C:\Users\Owner\Desktop\C#\twentyOne\obj\Debug\twentyOne.exe
-C:\Users\Owner\Desktop\C#\twentyOne\obj\Debug\twentyOne.pdb
