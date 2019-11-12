@@ -5,3 +5,4 @@ In my C# .NET repository, you will find projects titled with specific techniques
 Here are some projects that incorporated the majority of said techniques:
 <br />
 * [Car Insurance Quote](https://github.com/therubini/C-sharp-and-.NET-projects/tree/master/carInsuranceQuotes)
+* [University Database](https://github.com/therubini/C-sharp-and-.NET-projects/tree/master/ContosoUniversity)
