@@ -6,3 +6,4 @@ Here are some projects that incorporated the majority of said techniques:
 <br />
 * [Car Insurance Quote](https://github.com/therubini/C-sharp-and-.NET-projects/tree/master/carInsuranceQuotes)
 * [University Database](https://github.com/therubini/C-sharp-and-.NET-projects/tree/master/ContosoUniversity)
+* [Twenty One Game](https://github.com/therubini/C-sharp-and-.NET-projects/tree/master/Casino)
