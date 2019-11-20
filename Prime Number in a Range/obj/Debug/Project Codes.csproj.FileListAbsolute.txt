@@ -1,0 +1,6 @@
+C:\Users\Owner\Desktop\C#\Project Codes\bin\Debug\Project Codes.exe.config
+C:\Users\Owner\Desktop\C#\Project Codes\bin\Debug\Project Codes.exe
+C:\Users\Owner\Desktop\C#\Project Codes\bin\Debug\Project Codes.pdb
+C:\Users\Owner\Desktop\C#\Project Codes\obj\Debug\Project Codes.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C#\Project Codes\obj\Debug\Project Codes.exe
+C:\Users\Owner\Desktop\C#\Project Codes\obj\Debug\Project Codes.pdb
