@@ -1,0 +1,6 @@
+C:\Users\Owner\Desktop\C#\Practiice c Sharp\bin\Debug\Practiice c Sharp.exe.config
+C:\Users\Owner\Desktop\C#\Practiice c Sharp\bin\Debug\Practiice c Sharp.exe
+C:\Users\Owner\Desktop\C#\Practiice c Sharp\bin\Debug\Practiice c Sharp.pdb
+C:\Users\Owner\Desktop\C#\Practiice c Sharp\obj\Debug\Practiice c Sharp.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\C#\Practiice c Sharp\obj\Debug\Practiice c Sharp.exe
+C:\Users\Owner\Desktop\C#\Practiice c Sharp\obj\Debug\Practiice c Sharp.pdb
